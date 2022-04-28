@@ -1,2 +1,5 @@
-# frontend-app
-First application on GitHub
+# hello-world
+
+First repository on GitHub
+
+I love ☕: 🍕 and 💃
